@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+
+    <string name="action_stop_tittle">action_stop_tittle</string>
+    <string name="action_clear_tittle">action_clear_tittle</string>
+
+    <string name="request_hint">request_hint?</string>
+
+    <string name="error_do_not_understand">error_do_not_understand?</string>
+    <string name="error_voice_recognize_unavailable">error_voice_recognize_unavailable</string>
+    <string name="error_something_went_wrong">error_something_went_wrong..</string>
+    <string name="error_tts_is_not_ready">TTS error_tts_is_not_ready</string>
+</resources>
